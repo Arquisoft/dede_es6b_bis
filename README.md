@@ -1,7 +1,7 @@
 # dede_es6b_bis
 
 [![CI for ASW2122](https://github.com/Arquisoft/dede_es6b_bis/actions/workflows/asw2122.yml/badge.svg)](https://github.com/Arquisoft/dede_es6b_bis/actions/workflows/asw2122.yml)
-[![pages-build-deployment](https://github.com/Arquisoft/dede_es6b_bis/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Arquisoft/dede_es6b_bis/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/Arquisoft/dede_es6b_bis/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Arquisoft/dede_es6b_bis/actions/workflows/pages/pages-build-deployment.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Arquisoft_dede_es6b_bis&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Arquisoft_dede_es6b_bis)
 [![codecov](https://codecov.io/gh/Arquisoft/dede_es6b_bis/branch/master/graph/badge.svg?token=xu5iRCzH6T)](https://codecov.io/gh/Arquisoft/dede_es6b_bis)
 
@@ -54,7 +54,5 @@ Encontrarás más información sobre el repositorio en los otros archivos README
 - Restapi: https://github.com/Arquisoft/dede_es6b_bis/tree/master/restapi
 
 ## Miembros del equipo
-- Diego Álvarez Fernández UO277383
-- Celia Barral Juárez UO277578
-- Moisés García López UO264802
+
 - Diego Tomás Nosti UO270497
